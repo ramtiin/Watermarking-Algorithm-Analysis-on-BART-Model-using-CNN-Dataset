@@ -1,1 +1,2 @@
-# Watermarking-Algorithm-Analysis-on-BART-Model-using-CNN-Dataset
+# Watermarking on BART Model using CNN Dataset (Conditional Text Generation)
+In this Colab notebook, my objective is to explore the domain of watermarking algorithms as they apply to Conditional Text Generation (CTG) with a focus on the BART model and the CNN dataset. This inquiry is guided by the techniques outlined in the paper "A Watermark for Large Language Models" and aims to evaluate the effectiveness of these methods when applied to the BART model and text summarization tasks.
